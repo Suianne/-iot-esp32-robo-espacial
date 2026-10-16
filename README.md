@@ -61,3 +61,6 @@ As mensagens correspondentes são exibidas no Monitor Serial durante a simulaç�
 
 Ao final da etapa, espera-se que o circuito simulado permita testar a leitura do joystick, a identificação das quatro direções, o acionamento do botão de desligamento e a sinalização por LEDs, com as mensagens correspondentes apresentadas no Monitor Serial.
 
+## 6. Link para a simulação
+Link: https://velxio.dev/angelo-oliveira/joystick/ 
+
